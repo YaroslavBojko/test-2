@@ -5,5 +5,6 @@ int main() {
     int i = 2 + 2;
     std::cout << i << std::endl;
     std::cout << "Hello Git" << std::endl;
+    std::cout << "Hello Petrovich" << std::endl;
 }
 
